@@ -1,0 +1,7 @@
+trong cd
+
+git init
+git add .
+git commit -m"tên-project"
+git remote add origin < link github của bạn >
+git push -u origin master
